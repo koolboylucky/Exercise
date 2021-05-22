@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
     <TextView
-        android:text="2"
+        android:text="244"
         android:gravity="center"
         android:textSize="20sp"
         android:textColor="@color/white"
